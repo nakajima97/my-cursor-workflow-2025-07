@@ -1,0 +1,6 @@
+{
+  "name": "my-cursor-workflow-2025-07",
+  "dependencies": {
+    "@marp-team/marp-cli": "^4.2.0"
+  }
+}
