@@ -3,7 +3,6 @@ marp: true
 theme: default
 paginate: true
 header: 'Cursor実践活用術'
-footer: '2025年'
 ---
 
 # Cursor実践活用術
