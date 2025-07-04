@@ -2,10 +2,10 @@
 marp: true
 theme: default
 paginate: true
-header: 'Cursor実践活用術'
+header: '私のCursor実践活用術'
 ---
 
-# Cursor実践活用術
+# 私のCursor実践活用術
 ## 開発効率を最大化するAIアシスタント
 
 ---
